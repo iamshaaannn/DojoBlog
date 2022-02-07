@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Data Science VS Machine Learning",
+      "body": "In the 21st Century, two terms “Data Science” and “Machine Learning” are some of the most searched terms in the technology world. From 1st-year Computer Science students to big Organizations like Netflix, Amazon, etc are running behind these two techniques. And they also got the reason. In the world of data space, the era of Big Data emerged when organizations are dealing with petabytes and exabytes of data. It became very tough for industries for the storage of data until 2010. Now when popular frameworks like Hadoop and others solved the problem of storage, the focus is on processing the data. And here Data Science and Machine Learning play a big role. But How much data is Big Data?",
+      "author": "Shreya Shrivastava",
+      "id": 2
+    },
+    {
+      "title": "Will India win the world cup?",
+      "body": "If you are struggling to acquire a reply for Will India be able to win the T20 World Cup? this after that you can stop worrying. I have seen this questions next many times in the hours of daylight in Quora. The solution is easy you can use this tool to acquire the results.",
+      "author": "Shaurya Bhardwaj",
+      "id": 3
+    },
+    {
+      "title": "Web Dev VS Android Dev Vs IOS Dev",
+      "body": "In the 21st Century, two terms “Data Science” and “Machine Learning” are some of the most searched terms in the technology world. From 1st-year Computer Science students to big Organizations like Netflix, Amazon, etc are running behind these two techniques. And they also got the reason. In the world of data space, the era of Big Data emerged when organizations are dealing with petabytes and exabytes of data. It became very tough for industries for the storage of data until 2010. Now when popular frameworks like Hadoop and others solved the problem of storage, the focus is on processing the data. And here Data Science and Machine Learning play a big role. But How much data is Big Data?",
+      "author": "Shreya Shrivastava",
+      "id": 4
+    },
+    {
+      "title": "Will India to become SUPERPOWER by 2025?",
+      "body": "If you are struggling to acquire a reply for Will India be able to win the T20 World Cup? this after that you can stop worrying. I have seen this questions next many times in the hours of daylight in Quora. The solution is easy you can use this tool to acquire the results.",
+      "author": "Shaurya Bhardwaj",
+      "id": 5
+    },
+    {
+      "title": "India's Nightingale Lata Mangeshkar cremated with full state honours at Shivaji Park in Mumbai",
+      "body": "India's Nightingale Lata Mangeshkar cremated with full state honours at Shivaji Park in MumbaiIndia's Nightingale Lata Mangeshkar cremated with full state honours at Shivaji Park in MumbaiIndia's Nightingale Lata Mangeshkar cremated with full state honours at Shivaji Park in MumbaiIndia's Nightingale Lata Mangeshkar cremated with full state honours at Shivaji Park in MumbaiIndia's Nightingale Lata Mangeshkar cremated with full state honours at Shivaji Park in Mumbai",
+      "author": "Shaurya Bhardwaj",
+      "id": 7
+    }
+  ]
+}
